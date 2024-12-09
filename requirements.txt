@@ -1,0 +1,6 @@
+matplotlib==3.8.4
+numpy==2.0.0
+Pillow==10.4.0
+pynput==1.7.7
+sounddevice==0.4.7
+ttkbootstrap==1.10.1
